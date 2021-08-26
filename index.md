@@ -7,9 +7,12 @@ I chose to look at NYC Taxis because once I saw it as an option I realized the p
 ### free-data-science-book : _Data Mining for Social Network Data_ (https://link.springer.com/book/10.1007%2F978-1-4419-6287-4)
 #### Authors: Nasrullah Memon, Jennifer Jie Xu, David L. Hicks, Hsinchun Chen
 #### Annals of Information Systems book series
+
 1. Maersk Mc-Kinney Moller Institute, University of Southern Denmark, Odense M, Denmark
 2. Dept. Computer Information Systems, Bentley University, Waltham, USA
 3. Dept. Computer Science & Engineering, Aalborg University Esbjerg, Esbjerg, Denmark
 4. Eller College of Management, University of Arizona, Tucson, USA
+
+
 I chose _Data Mining for Social Network Data_ since I feel there are many interesting questions that can be asked in terms of Social Network Data as Social Networking sites are becoming more popular and a common place to find people's varying opinions and stances on topics. The spread of false information or 'Fake News' is another major problem in social networks that can have detrimental effects since children are more recently also on these networks.
 
