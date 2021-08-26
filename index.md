@@ -1,6 +1,10 @@
 ## Saroop Samra's Webpage
 
 ### awesome-datascience : [NYC Taxis](http://chriswhong.github.io/nyctaxi/)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 I chose to look at NYC Taxis because once I saw it as an option I realized the potential the data analysis would have for commercial use by companies to better how taxis operate. This project focuses around the path of a taxi in 2013, the website has an animation following a single taxi and all the rides it travels in a single day. Alongside this visualization, is key information such as the fares, tax, tips, and how many people this taxi took from point A to point B. Some applications of this is we could analyze where the most pickups occur so that taxis could be positioned accordingly. We could also discover which areas and trips gave the driver the most in tips, for example more tips perhaps is as a result of it being a longer trip or a trip where there are more passangers.
 
 
