@@ -14,5 +14,5 @@ I chose to look at NYC Taxis because once I saw it as an option I realized the p
 4. Eller College of Management, University of Arizona, Tucson, USA
 
 
-I chose _Data Mining for Social Network Data_ since I feel there are many interesting questions that can be asked in terms of Social Network Data as Social Networking sites are becoming more popular and a common place to find people's varying opinions and stances on topics. The spread of false information or 'Fake News' is another major problem in social networks that can have detrimental effects since children are more recently also on these networks.
+_Data Mining for Social Network Data_ analyzes Social Network Data through machiene learning in order to answer critical questions that impact the population. I chose this book since I feel there are many interesting questions that can be asked in terms of social network data as social networking sites are becoming more popular and a common place to find people's varying opinions and stances on topics. The spread of false information or 'Fake News' is another major problem in social networks that can have detrimental effects since children are more recently also on these networks. Understanding how the information spreads and which people it gets to is important to understand in order to try and keep it from happening.
 
